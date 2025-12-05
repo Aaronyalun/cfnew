@@ -8,8 +8,8 @@
   },
   "workers_dev": true,
   "route": {
-    //"pattern": "example.org/*",
-    //*"zone_name": "example.org"
+    "pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
+    "zone_name": "uuid"
   }
   //,
   //"kv_namespaces": [
