@@ -6,7 +6,13 @@
   "build": {
     "command": "node ./convert-to-worker.js \"少年你相信光吗\" ./worker.js"
   },
-  "workers_dev": true
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "w.aaronyalun.dpdns.org",
+      "custom_domain": true
+    }
+  ]
   //"route": {
   //  "pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
   //  "zone_name": "uuid"
