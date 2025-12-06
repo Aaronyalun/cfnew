@@ -236,8 +236,10 @@ curl -X DELETE "https://your-worker.workers.dev/{UUID或自定义路径}/api/pre
 ### 致谢
 
   * 本项目基于 [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) 修改，感谢原作者的贡献。
-  * 本项目内置ProxyIP 来自CM [[cmliu](https://github.com/cmliu)) ，感谢作者的贡献。
+  * 本项目内置ProxyIP部分  来自CM [[cmliu](https://github.com/cmliu)) ，感谢作者的贡献。
   * 本项目反代IP来着前端独苗kejiland  [[qwer-search](https://github.com/qwer-search)) ，感谢作者的贡献。
+  * 本项目在线优选接口来自  [[白嫖哥](https://t.me/bestcfipas)) ，感谢作者的贡献。
+
 
 ## Star History
 
