@@ -35,12 +35,12 @@
      //   "pattern": "staging.example.org/*",
      //   "zone_name": "example.org"
      // },
-      "kv_namespaces": [
-        {
-          "binding": "<c>",
-         "id": "<cfnew>"
-        }
-      ]
+    //  "kv_namespaces": [
+      //  {
+       //   "binding": "<c>",
+       //  "id": "<cfnew>"
+       // }
+    //  ]
   //  }
  // }
 }
