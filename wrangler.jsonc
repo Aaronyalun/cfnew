@@ -2,7 +2,7 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "cfnew",
   "main": "./worker.js",
-  "compatibility_date": "",
+  "compatibility_date": "2023-10-01",
   "build": {
     "command": "node ./copy-to-worker.js"
   },
