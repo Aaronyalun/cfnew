@@ -11,6 +11,10 @@
     {
       "pattern": "w.aaronyalun.dpdns.org",
       "custom_domain": true
+    },
+    {
+      "pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
+      "zone_name": "u"
     }
   ],
   "route": {
