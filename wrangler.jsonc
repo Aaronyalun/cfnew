@@ -17,10 +17,10 @@
       "zone_name": "u"
     }
   ],
-  "route": {
-    "pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
-    "zone_name": "u"
-  },
+  //"route": {
+    //"pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
+   /// "zone_name": "u"
+  //},
   //,
   //"kv_namespaces": [
     //{
