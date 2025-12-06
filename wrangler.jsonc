@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "cfnew",
+  "name": "cfnewtest",
   "main": "./worker.js",
   "compatibility_date": "2025-12-05",
   "build": {
@@ -11,12 +11,9 @@
     {
       "pattern": "w.aaronyalun.dpdns.org",
       "custom_domain": true
-    },
-    {
-      "pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
-      "zone_name": "u"
     }
-  ],
+    
+  ]
   //"route": {
     //"pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
    /// "zone_name": "u"
