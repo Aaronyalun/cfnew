@@ -12,11 +12,11 @@
       "pattern": "w.aaronyalun.dpdns.org",
       "custom_domain": true
     }
-  ]
-  //"route": {
-  //  "pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
-  //  "zone_name": "uuid"
- // }
+  ],
+  "route": {
+    "pattern": "bc224674-b06e-4466-9baf-f1267384f75f",
+    "zone_name": "u"
+  },
   //,
   //"kv_namespaces": [
     //{
@@ -31,12 +31,12 @@
      //   "pattern": "staging.example.org/*",
      //   "zone_name": "example.org"
      // },
- //     "kv_namespaces": [
- //       {
- //         "binding": "<MY_NAMESPACE>",
- //         "id": "<STAGING_KV_ID>"
-  //      }
-  //    ]
+      "kv_namespaces": [
+        {
+          "binding": "<c>",
+         "id": "<cfnew>"
+        }
+      ]
   //  }
  // }
 }
