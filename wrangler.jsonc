@@ -6,7 +6,7 @@
   "build": {
     "command": "node ./copy-to-worker.js"
   },
-  "workers_dev": true,
+  "workers_dev": false,
   "routes": [
     {
       "pattern": "w.aaronyalun.dpdns.org",
