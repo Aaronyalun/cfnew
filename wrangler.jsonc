@@ -4,7 +4,7 @@
   "main": "./worker.js",
   "compatibility_date": "2025-12-05",
   "build": {
-    "command": "node ./convert-to-worker.js \"少年你相信光吗\" ./worker.js"
+    "command": "node ./copy-to-worker.js"
   },
   "workers_dev": true,
   "routes": [
